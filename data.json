@@ -1,0 +1,14 @@
+{
+	"emp_details": [
+		{
+			"emp_name": "Chris",
+			"email": "chxu@ea.com",
+			"job_profile": "security engineer"
+		},
+		{
+			"emp_name": "Bob",
+			"email": "rfish@ea.com",
+			"job_profile": "security architect"
+		}
+	]
+}			
